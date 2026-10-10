@@ -1,0 +1,109 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R /F3 7 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 5825 >>
+stream
+q
+0 0 0 rg BT /F3 20 Tf 230.0 742.0 Td (HARIKUMAR E) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 195.0 726.0 Td (Chennai, India   |   +91-9444465579   |   Gmail) Tj ET
+0.2 0.2 0.2 rg BT /F1 9.5 Tf 232.0 713.0 Td (GitHub   |   LinkedIn   |   Portfolio) Tj ET
+0 0 0 rg BT /F3 11 Tf 48.0 690.0 Td (Professional Summary) Tj ET
+0.35 G 0.6 w 48.0 687.0 m 564.0 687.0 l S
+0 0 0 rg BT /F1 9.5 Tf 48.0 674.0 Td (Computer Science and Engineering student specializing in Cybersecurity, with hands-on experience in Python, FastAPI,) Tj ET
+0 0 0 rg BT /F1 9.5 Tf 48.0 662.0 Td (Docker, Linux, REST APIs, and security tooling. Interested in software engineering, cloud infrastructure, and building) Tj ET
+0 0 0 rg BT /F1 9.5 Tf 48.0 650.0 Td (reliable security-focused applications.) Tj ET
+0 0 0 rg BT /F3 11 Tf 48.0 630.0 Td (Education) Tj ET
+0.35 G 0.6 w 48.0 627.0 m 564.0 627.0 l S
+0 0 0 rg BT /F3 9.5 Tf 48.0 614.0 Td (Sri Sairam Institute of Technology) Tj ET
+0 0 0 rg BT /F1 9.5 Tf 430.0 614.0 Td (Expected Graduation: 2028) Tj ET
+0 0 0 rg BT /F1 9.5 Tf 48.0 602.0 Td (B.E. in Computer Science and Engineering \(Cybersecurity\)) Tj ET
+0 0 0 rg BT /F1 9.5 Tf 48.0 590.0 Td (CGPA: 7.79/10) Tj ET
+0 0 0 rg BT /F3 11 Tf 48.0 570.0 Td (Technical Skills) Tj ET
+0.35 G 0.6 w 48.0 567.0 m 564.0 567.0 l S
+0 0 0 rg BT /F3 9.5 Tf 48.0 554.0 Td (Programming:) Tj ET
+0 0 0 rg BT /F1 9.5 Tf 163.0 554.0 Td (Python, C, SQL, Bash) Tj ET
+0 0 0 rg BT /F3 9.5 Tf 48.0 542.0 Td (Backend Development:) Tj ET
+0 0 0 rg BT /F1 9.5 Tf 163.0 542.0 Td (FastAPI, REST APIs, SQLite) Tj ET
+0 0 0 rg BT /F3 9.5 Tf 48.0 530.0 Td (Frontend:) Tj ET
+0 0 0 rg BT /F1 9.5 Tf 163.0 530.0 Td (React, JavaScript, HTML, CSS) Tj ET
+0 0 0 rg BT /F3 9.5 Tf 48.0 518.0 Td (Infrastructure:) Tj ET
+0 0 0 rg BT /F1 9.5 Tf 163.0 518.0 Td (Docker, Linux, Git, GitHub) Tj ET
+0 0 0 rg BT /F3 9.5 Tf 48.0 506.0 Td (Security:) Tj ET
+0 0 0 rg BT /F1 9.5 Tf 163.0 506.0 Td (Network Security, Vulnerability Assessment, OWASP Top 10, SIEM Fundamentals) Tj ET
+0 0 0 rg BT /F3 9.5 Tf 48.0 494.0 Td (Security Tools:) Tj ET
+0 0 0 rg BT /F1 9.5 Tf 163.0 494.0 Td (Syft, Cosign, Docker Scout, Wireshark, Nmap, Burp Suite) Tj ET
+0 0 0 rg BT /F3 11 Tf 48.0 474.0 Td (Experience) Tj ET
+0.35 G 0.6 w 48.0 471.0 m 564.0 471.0 l S
+0 0 0 rg BT /F3 9.5 Tf 48.0 458.0 Td (DevOps & Containerization Intern) Tj ET
+0 0 0 rg BT /F1 9.5 Tf 455.0 458.0 Td (Oct 2025 - Nov 2025) Tj ET
+0 0 0 rg BT /F2 9.5 Tf 48.0 447.0 Td (Vectra Technosoft Pvt. Ltd., Chennai) Tj ET
+0 0 0 rg BT /F1 9 Tf 56.0 435.0 Td (• Containerized a To-Do application using Docker and deployed it in a Red Hat Enterprise Linux environment.) Tj ET
+0 0 0 rg BT /F1 9 Tf 56.0 424.0 Td (• Practiced Docker networking, Linux administration, and containerized application troubleshooting.) Tj ET
+0 0 0 rg BT /F3 11 Tf 48.0 406.0 Td (Technical Projects) Tj ET
+0.35 G 0.6 w 48.0 403.0 m 564.0 403.0 l S
+0 0 0 rg BT /F3 9.5 Tf 48.0 390.0 Td (ChainProof - Software Supply-Chain Security) Tj ET
+0 0 0 rg BT /F2 9 Tf 395.0 390.0 Td (Python, FastAPI, React, Docker) Tj ET
+0 0 0 rg BT /F1 9 Tf 56.0 379.0 Td (• Built a platform to assess container image integrity and software supply-chain security risks.) Tj ET
+0 0 0 rg BT /F1 9 Tf 56.0 368.0 Td (• Integrated SBOM generation, vulnerability scanning, and container signature verification using Syft, Docker Scout,) Tj ET
+0 0 0 rg BT /F1 9 Tf 62.0 357.0 Td (and Cosign.) Tj ET
+0 0 0 rg BT /F1 9 Tf 56.0 346.0 Td (• GitHub Repository: https://github.com/Harikmar2005/Chainproof) Tj ET
+0 0 0 rg BT /F3 9.5 Tf 48.0 332.0 Td (OfferGuard - AI-Powered Recruitment Fraud Detection) Tj ET
+0 0 0 rg BT /F2 9 Tf 375.0 332.0 Td (React, TypeScript, Node.js, Express) Tj ET
+0 0 0 rg BT /F1 9 Tf 56.0 321.0 Td (• Developed an investigative platform to assess job and internship offers for recruitment fraud, suspicious payment) Tj ET
+0 0 0 rg BT /F1 9 Tf 62.0 310.0 Td (demands, and impersonation risks.) Tj ET
+0 0 0 rg BT /F1 9 Tf 56.0 299.0 Td (• Implemented configurable risk scoring, DNS A/MX verification, evidence-chain tracking, and role-based access) Tj ET
+0 0 0 rg BT /F1 9 Tf 62.0 288.0 Td (control using JWT authentication.) Tj ET
+0 0 0 rg BT /F1 9 Tf 56.0 277.0 Td (• Integrated Google Gemini for offer analysis and evidence-grounded investigation Q&A, with SQLite persistence for) Tj ET
+0 0 0 rg BT /F1 9 Tf 62.0 266.0 Td (investigation records.) Tj ET
+0 0 0 rg BT /F1 9 Tf 56.0 255.0 Td (• GitHub Repository: https://github.com/Harikmar2005/offer-guard) Tj ET
+0 0 0 rg BT /F3 9.5 Tf 48.0 241.0 Td (Vallam - Farmer Support Navigator) Tj ET
+0 0 0 rg BT /F2 9 Tf 415.0 241.0 Td (React, TypeScript, FastAPI) Tj ET
+0 0 0 rg BT /F1 9 Tf 56.0 230.0 Td (• Developed a bilingual farmer-support navigator for discovering agricultural schemes and checking eligibility using) Tj ET
+0 0 0 rg BT /F1 9 Tf 62.0 219.0 Td (explainable rule-based matching.) Tj ET
+0 0 0 rg BT /F1 9 Tf 56.0 208.0 Td (• Designed document-readiness checks and personalized step-by-step support pathways for farmers.) Tj ET
+0 0 0 rg BT /F1 9 Tf 56.0 197.0 Td (• GitHub Repository: https://github.com/Harikmar2005/valam) Tj ET
+0 0 0 rg BT /F3 11 Tf 48.0 181.0 Td (Certifications) Tj ET
+0.35 G 0.6 w 48.0 178.0 m 564.0 178.0 l S
+0 0 0 rg BT /F1 9 Tf 56.0 165.0 Td (• Red Hat Certified System Administrator \(RHCSA\) - Completed) Tj ET
+0 0 0 rg BT /F1 9 Tf 56.0 154.0 Td (• Certified Ethical Hacker \(CEH\) v13 - In Progress) Tj ET
+0 0 0 rg BT /F3 11 Tf 48.0 138.0 Td (Additional Information) Tj ET
+0.35 G 0.6 w 48.0 135.0 m 564.0 135.0 l S
+0 0 0 rg BT /F3 9.5 Tf 48.0 122.0 Td (Areas of Interest:) Tj ET
+0 0 0 rg BT /F1 9.5 Tf 138.0 122.0 Td (Software Engineering, Cloud Security, DevSecOps, Application Security, AI Security) Tj ET
+0 0 0 rg BT /F3 9.5 Tf 48.0 110.0 Td (Languages:) Tj ET
+0 0 0 rg BT /F1 9.5 Tf 113.0 110.0 Td (English, Tamil) Tj ET
+Q
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Roman >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Italic >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Times-Bold >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000261 00000 n 
+0000006137 00000 n 
+0000006209 00000 n 
+0000006282 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+6353
+%%EOF
