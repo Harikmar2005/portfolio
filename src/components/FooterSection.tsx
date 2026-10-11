@@ -55,6 +55,15 @@ export const FooterSection: React.FC = () => {
           </a>
 
           <a
+            href="https://www.linkedin.com/in/harikumar-elango-a32072320"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-[#B7FF5A] transition-colors"
+          >
+            LINKEDIN
+          </a>
+
+          <a
             href="#resume"
             className="hover:text-[#B7FF5A] transition-colors"
           >

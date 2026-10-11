@@ -111,6 +111,18 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ profileData }) => {
                 <span className="text-[#929BA7]">Developer Handle:</span>
                 <span className="text-[#F3F5F7] font-bold">{profileData.githubUsername}</span>
               </div>
+
+              <div className="flex items-center justify-between text-xs pt-1 border-t border-[#1D232B]">
+                <span className="text-[#929BA7]">LinkedIn:</span>
+                <a
+                  href={profileData.linkedinUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-[#B7FF5A] font-bold hover:underline"
+                >
+                  harikumar-elango
+                </a>
+              </div>
             </div>
           </div>
 

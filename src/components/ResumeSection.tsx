@@ -238,7 +238,16 @@ export const ResumeSection: React.FC = () => {
                     rel="noopener noreferrer"
                     className="text-[#B7FF5A] hover:underline"
                   >
-                    github.com/Harikmar2005
+                    GitHub
+                  </a>
+                  <span>·</span>
+                  <a
+                    href="https://www.linkedin.com/in/harikumar-elango-a32072320"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-[#B7FF5A] hover:underline"
+                  >
+                    LinkedIn
                   </a>
                 </div>
               </div>

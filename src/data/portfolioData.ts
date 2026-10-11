@@ -61,7 +61,7 @@ export const profileData: EditableProfileData = {
   email: 'elangoharikumar@gmail.com',
   githubUsername: 'Harikmar2005',
   githubUrl: 'https://github.com/Harikmar2005',
-  linkedinUrl: 'https://linkedin.com/in/placeholder-harikumar', // Editable placeholder
+  linkedinUrl: 'https://www.linkedin.com/in/harikumar-elango-a32072320',
   headline: 'I BUILD SYSTEMS THAT DETECT, VERIFY & DEFEND.',
   supportingText:
     'Cybersecurity, software engineering, and intelligent systems — built through experimentation, practical projects, and continuous learning.',

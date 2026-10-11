@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Menu, X, Github } from 'lucide-react';
+import { Menu, X, Github, Linkedin } from 'lucide-react';
 
 export const Navbar: React.FC = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -40,8 +40,19 @@ export const Navbar: React.FC = () => {
           ))}
         </nav>
 
-        {/* Zone 3: 1 primary action */}
-        <div className="hidden md:flex items-center gap-3 shrink-0">
+        {/* Zone 3: Actions */}
+        <div className="hidden md:flex items-center gap-2.5 shrink-0">
+          <a
+            href="https://www.linkedin.com/in/harikumar-elango-a32072320"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-mono text-[#F3F5F7] hover:text-[#B7FF5A] bg-[#11151A] hover:bg-[#151A21] border border-[#252B33] hover:border-[#B7FF5A] transition-colors whitespace-nowrap shrink-0"
+            title="LinkedIn Profile"
+          >
+            <Linkedin className="w-3.5 h-3.5 text-[#B7FF5A]" />
+            <span>LINKEDIN</span>
+          </a>
+
           <a
             href="https://github.com/Harikmar2005"
             target="_blank"
@@ -55,6 +66,15 @@ export const Navbar: React.FC = () => {
 
         {/* Mobile Hamburger Button */}
         <div className="flex md:hidden items-center gap-2">
+          <a
+            href="https://www.linkedin.com/in/harikumar-elango-a32072320"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="p-1.5 text-[#B7FF5A] border border-[#252B33]"
+            title="LinkedIn Profile"
+          >
+            <Linkedin className="w-4 h-4" />
+          </a>
           <a
             href="https://github.com/Harikmar2005"
             target="_blank"
@@ -87,14 +107,24 @@ export const Navbar: React.FC = () => {
               {link.label}
             </a>
           ))}
-          <div className="pt-2 border-t border-[#252B33]">
+          <div className="pt-2 border-t border-[#252B33] space-y-2">
+            <a
+              href="https://www.linkedin.com/in/harikumar-elango-a32072320"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center justify-center gap-2 w-full py-2 text-[#F3F5F7] bg-[#11151A] border border-[#252B33] font-semibold hover:border-[#B7FF5A]"
+            >
+              <Linkedin className="w-4 h-4 text-[#B7FF5A]" />
+              <span>VIEW LINKEDIN</span>
+            </a>
             <a
               href="https://github.com/Harikmar2005"
               target="_blank"
               rel="noopener noreferrer"
-              className="block w-full text-center py-2 text-[#090B0E] bg-[#B7FF5A] font-semibold"
+              className="flex items-center justify-center gap-2 w-full py-2 text-[#090B0E] bg-[#B7FF5A] font-semibold"
             >
-              VIEW GITHUB PROFILE
+              <Github className="w-4 h-4" />
+              <span>VIEW GITHUB PROFILE</span>
             </a>
           </div>
         </div>

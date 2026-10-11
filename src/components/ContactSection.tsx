@@ -128,17 +128,17 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ profileData }) =
             </div>
 
             <div className="space-y-1">
-              <div className="flex items-center gap-2 text-sm sm:text-base font-semibold text-[#F3F5F7] group-hover:text-[#B7FF5A] transition-colors">
-                <Linkedin className="w-4 h-4" />
-                <span>LinkedIn Profile</span>
+              <div className="flex items-center gap-2 text-sm sm:text-base font-semibold text-[#F3F5F7] group-hover:text-[#B7FF5A] transition-colors truncate">
+                <Linkedin className="w-4 h-4 shrink-0 text-[#B7FF5A]" />
+                <span className="truncate">in/harikumar-elango-a32072320</span>
               </div>
               <p className="text-[11px] text-[#929BA7] font-sans">
-                Professional network and academic affiliations [Editable placeholder].
+                Professional connections, cybersecurity research, and engineering updates.
               </p>
             </div>
 
-            <span className="text-[10px] text-[#929BA7] group-hover:text-[#B7FF5A] transition-colors">
-              VIEW PROFILE →
+            <span className="text-[10px] text-[#B7FF5A] group-hover:text-[#B7FF5A] transition-colors">
+              OPEN LINKEDIN PROFILE →
             </span>
           </a>
         </div>

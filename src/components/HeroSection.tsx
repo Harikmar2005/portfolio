@@ -1,7 +1,7 @@
 import React from 'react';
 import { EditableProfileData } from '../data/portfolioData';
 import { NetworkRadarHero } from './NetworkRadarHero';
-import { ArrowDown, Github, ChevronRight, FileText } from 'lucide-react';
+import { ArrowDown, Github, ChevronRight, FileText, Linkedin } from 'lucide-react';
 
 interface HeroSectionProps {
   profileData: EditableProfileData;
@@ -73,6 +73,16 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ profileData }) => {
             >
               <FileText className="w-4 h-4 text-[#B7FF5A]" />
               <span>RESUME / CV</span>
+            </a>
+
+            <a
+              href={profileData.linkedinUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 px-4 py-3 text-[#F3F5F7] hover:text-[#B7FF5A] bg-[#11151A] hover:bg-[#151A21] border border-[#252B33] hover:border-[#B7FF5A] transition-all"
+            >
+              <Linkedin className="w-4 h-4 text-[#B7FF5A]" />
+              <span>LINKEDIN</span>
             </a>
           </div>
 
